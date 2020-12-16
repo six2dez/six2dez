@@ -1,1 +1,1 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=six2dez&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=six2dez&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
