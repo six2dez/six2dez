@@ -2,7 +2,6 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=six2dez&show_icons=true&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=six2dez&theme=github_dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=six2dez&layout=compact&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=six2dez&theme=github_dark)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-fork-two.vercel.app/?username=six2dez&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
